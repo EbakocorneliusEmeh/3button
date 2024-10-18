@@ -2,14 +2,20 @@ body {
 
    background-color: green; 
 }
+
 .today {
+
     background-color: gray;
 
 }
+
 .school {
+
     background-color: darkblue;
     width: 25px;
 }
+
 .life {
+
     background-color: burlywood;
 }
