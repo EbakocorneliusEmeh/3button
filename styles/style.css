@@ -1,0 +1,17 @@
+body{
+
+   background-color: black; 
+}
+.today{
+    background-color: blue;
+
+}
+.school{
+    background-color: brown;
+    width: 25px;
+}
+.life{
+    .button{
+        background-color: blueviolet;
+    }
+}
