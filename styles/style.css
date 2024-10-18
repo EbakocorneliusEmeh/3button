@@ -1,17 +1,15 @@
-body{
+body {
 
    background-color: green; 
 }
-.today{
+.today {
     background-color: gray;
 
 }
-.school{
-    background-color: black;
+.school {
+    background-color: darkblue;
     width: 25px;
 }
-.life{
-    .button{
-        background-color: burlywood;
-    }
+.life {
+    background-color: burlywood;
 }
