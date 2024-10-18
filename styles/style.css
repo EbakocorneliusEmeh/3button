@@ -1,17 +1,17 @@
 body{
 
-   background-color: black; 
+   background-color: green; 
 }
 .today{
-    background-color: blue;
+    background-color: gray;
 
 }
 .school{
-    background-color: brown;
+    background-color: black;
     width: 25px;
 }
 .life{
     .button{
-        background-color: blueviolet;
+        background-color: burlywood;
     }
 }
